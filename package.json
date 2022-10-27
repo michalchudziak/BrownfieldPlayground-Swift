@@ -1,0 +1,8 @@
+{
+    "name": "BrownfieldPlayground",
+    "version": "1.0.0",
+    "dependencies": {
+        "react": "18.1.0",
+        "react-native": "0.70.2"
+    }
+}
